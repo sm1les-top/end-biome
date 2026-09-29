@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "astral_end",
+  "version": "${version}",
+  "name": "Astral End",
+  "description": "3 new End biomes (incl. Astral Infection), 2 new mobs and 1 boss.",
+  "authors": ["_Sm1les_"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.astralend.AstralEnd"],
+    "client": ["com.astralend.AstralEndClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "block.astral_end.astral_stone": "Астральный камень",
+  "block.astral_end.crystal_end_stone": "Кристальный эндерняк",
+  "block.astral_end.void_moss": "Пустотный мох",
+  "entity.astral_end.astral_parasite": "Астральный паразит",
+  "entity.astral_end.crystal_husk": "Кристальный каркас",
+  "entity.astral_end.astral_devourer": "Астральный Пожиратель",
+  "biome.astral_end.astral_infection": "Астральная инфекция",
+  "biome.astral_end.crystal_fields": "Кристальные поля",
+  "biome.astral_end.void_meadow": "Пустотный луг"
+}

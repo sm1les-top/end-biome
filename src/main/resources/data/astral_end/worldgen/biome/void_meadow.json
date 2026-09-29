@@ -1,0 +1,51 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "effects": {
+    "sky_color": 731690,
+    "fog_color": 2059098,
+    "water_color": 2068330,
+    "water_fog_color": 2068330
+  },
+  "carvers": [],
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "astral_end:void_moss_patch"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "spawn_costs": {},
+  "spawners": {
+    "monster": [
+      {
+        "type": "astral_end:astral_parasite",
+        "weight": 20,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 4
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "block.astral_end.astral_stone": "Astral Stone",
+  "block.astral_end.crystal_end_stone": "Crystal End Stone",
+  "block.astral_end.void_moss": "Void Moss",
+  "entity.astral_end.astral_parasite": "Astral Parasite",
+  "entity.astral_end.crystal_husk": "Crystal Husk",
+  "entity.astral_end.astral_devourer": "Astral Devourer",
+  "biome.astral_end.astral_infection": "Astral Infection",
+  "biome.astral_end.crystal_fields": "Crystal Fields",
+  "biome.astral_end.void_meadow": "Void Meadow"
+}

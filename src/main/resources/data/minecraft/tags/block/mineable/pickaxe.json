@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "astral_end:astral_stone",
+    "astral_end:crystal_end_stone",
+    "astral_end:void_moss"
+  ]
+}

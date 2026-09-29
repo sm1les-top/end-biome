@@ -1,0 +1,53 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "effects": {
+    "sky_color": 8048895,
+    "fog_color": 12119295,
+    "water_color": 4171224,
+    "water_fog_color": 4171224
+  },
+  "carvers": [],
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "astral_end:crystal_end_stone_patch"
+    ],
+    [],
+    [],
+    [
+      "minecraft:chorus_plant"
+    ],
+    []
+  ],
+  "spawn_costs": {},
+  "spawners": {
+    "monster": [
+      {
+        "type": "astral_end:crystal_husk",
+        "weight": 30,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 4
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  }
+}
